@@ -5,4 +5,8 @@
         <RootNamespace>serilog_dotnet_watch_repro</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
+    </ItemGroup>
+
 </Project>
